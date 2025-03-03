@@ -1,1 +1,14 @@
+Basic Binary Numbers
+Binary numbers are Base-2, so they have only two digits: 0 and 1. The basic binary numbers and their decimal equivalents are:
 
+Decimal (Base-10) Binary (Base-2)
+0 0000
+1 0001
+2 0010
+3 0011
+4 0100
+5 0101
+6 0110
+Basic Binary Number Properties:
+Each digit is a "bit" (binary digit).
+Binary numbers grow exponentially (each place value is a power of 2)
