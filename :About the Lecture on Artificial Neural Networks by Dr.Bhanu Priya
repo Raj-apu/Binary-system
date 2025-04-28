@@ -1,0 +1,16 @@
+We learned about Artificial Neural Networks (ANNs) in our lecture today. The topic appeared to be very challenging initially, but the professor taught it in a very simple way. I learned that Artificial Neural Networks are computer programs that try to mimic the way our human brain works. Just like our brain has many neurons (nerve cells) that help us think and learn, in the same way, an ANN has many small units called "artificial neurons" that work together to solve problems.
+
+The instructor started by telling us why ANNs are important. They are used in everything we see on a daily basis, like facial recognition on phones, 
+voice assistant apps like Siri, self-driving cars, and even on shopping websites online to suggest products. This made me realize how deeply Artificial Neural Networks are already embedded in our lives.
+We then discovered the general composition of an ANN. It consists of three primary layers:
+Input layer: It takes input from the external world, for example, images, words, or numbers.
+Hidden layer: This is where the real "thinking" occurs. It processes the information. There can be more than one hidden layer.
+Output layer: This delivers the final output, for example, identifying a face or translating into a language.
+Each artificial neuron gets a piece of information, does some simple arithmetic, and passes the result to the next neuron. This way, 
+the network learns patterns and makes smart decisions. The teacher also informed us that an ANN has to be "trained" before it is able to produce quality results. Training is givingit a large number of examples so that it can learn from them. For example, if we want an ANN to recognize cats in pictures, we must expose it to thousands of pictures of cats. Slowly, it becomes better and better at recognizing cats.
+One big thing we discovered is that the ANN occasionally makes mistakes. It is not perfect, but it can be improved with time, more training, 
+and improved methods.
+Lastly, the instructor gave some real-world examples and showed a small demo in which a simple ANN was trained to predict numbers correctly. It was actually exciting to see how machines can "learn" like humans.
+
+ 
+
